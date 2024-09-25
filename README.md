@@ -28,7 +28,11 @@ Array de Caracteres: Cria um array (senha) do tamanho especificado para armazena
 Loop de Geração: Um loop for itera até o número de caracteres desejado, preenchendo o array com caracteres aleatórios selecionados da string possivel.
 Saída: A senha gerada é impressa no console.
 
-
+### **Calculadora IMC**
+### **Decisão de Almoço**
+### **Calculadora**
+### **Conversor de temperatura**
+### **Adivinhação de numeros**
 
 ## **Parâmetros**
 
