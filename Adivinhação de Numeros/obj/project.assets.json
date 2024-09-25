@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\miley menezes\\miley\\ProjetoEmEquipe\\ProjetoEmEquipe\\Lançamentos de Dados\\Lançamentos de Dados.csproj",
-      "projectName": "Lançamentos de Dados",
-      "projectPath": "C:\\Users\\Alunos\\Desktop\\miley menezes\\miley\\ProjetoEmEquipe\\ProjetoEmEquipe\\Lançamentos de Dados\\Lançamentos de Dados.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\miley menezes\\miley\\ProjetoEmEquipe\\ProjetoEmEquipe\\Adivinhação de Numeros\\Adivinhação de Numeros.csproj",
+      "projectName": "Adivinhação de Numeros",
+      "projectPath": "C:\\Users\\Alunos\\Desktop\\miley menezes\\miley\\ProjetoEmEquipe\\ProjetoEmEquipe\\Adivinhação de Numeros\\Adivinhação de Numeros.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Desktop\\miley menezes\\miley\\ProjetoEmEquipe\\ProjetoEmEquipe\\Lançamentos de Dados\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Desktop\\miley menezes\\miley\\ProjetoEmEquipe\\ProjetoEmEquipe\\Adivinhação de Numeros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
