@@ -29,12 +29,3 @@
 - [ ] Manipular arquivo(s)
 
 # **Conclusao**
-《《《《
-
-
-## **𝓑𝓪𝓬𝓴𝓵𝓸𝓰**
-- [ ] Mover arquivo(s)
-- [ ] Manipular arquivo(s)
-
-# **𝓒𝓸𝓷𝓬𝓵𝓾𝓼ã𝓸**
-《《《《
