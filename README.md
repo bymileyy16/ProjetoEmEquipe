@@ -29,4 +29,3 @@
 - [ ] Manipular arquivo(s)
 
 # **Conclusao**
-《《《《
